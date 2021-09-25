@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "Breaking Bad",
         "poster": "https://ibb.co/StF7KFz",
         "genre": [
@@ -12,6 +13,7 @@
         "firstReleasedYear": 2008
     },
     {
+        "id": 2,
         "title": "Chernobyl",
         "poster": "https://ibb.co/Pt890FZ",
         "genre": [
@@ -24,6 +26,7 @@
         "firstReleasedYear": 2019
     },
     {
+        "id": 3,
         "title": "Friends",
         "poster": "https://ibb.co/d2mjNNQ",
         "genre": [
@@ -38,6 +41,7 @@
         "firstReleasedYear": 1994
     },
     {
+        "id": 4,
         "title": "Game Of Thrones",
         "poster": "https://ibb.co/7rBJDzw",
         "genre": [
@@ -53,6 +57,7 @@
         "firstReleasedYear": 2011
     },
     {
+        "id": 5,
         "title": "Lucifer",
         "poster": "https://ibb.co/brmWLK7",
         "genre": [
@@ -65,6 +70,7 @@
         "firstReleasedYear": 2016
     },
     {
+        "id": 6,
         "title": "Mindhunter",
         "poster": "https://ibb.co/StF7KFz",
         "genre": [
@@ -77,6 +83,7 @@
         "firstReleasedYear": 2017
     },
     {
+        "id": 7,
         "title": "Money Heist",
         "poster": "https://ibb.co/HF9S8nz",
         "genre": [
@@ -89,6 +96,7 @@
         "firstReleasedYear": 2017
     },
     {
+        "id": 8,
         "title": "Mr Robot",
         "poster": "https://ibb.co/VJQpQqR",
         "genre": [
@@ -101,6 +109,7 @@
         "firstReleasedYear": 2015
     },
     {
+        "id": 9,
         "title": "Peaky Blinders",
         "poster": "https://ibb.co/4RF8czJ",
         "genre": [
@@ -112,6 +121,7 @@
         "firstReleasedYear": 2014
     },
     {
+        "id": 10,
         "title": "Person Of Interest",
         "poster": "https://ibb.co/gmvmR2d",
         "genre": [
@@ -124,6 +134,7 @@
         "firstReleasedYear": 2011
     },
     {
+        "id": 11,
         "title": "Vikings",
         "poster": "https://ibb.co/z2KRcVb",
         "genre": [
@@ -136,6 +147,7 @@
         "firstReleasedYear": 2013
     },
     {
+        "id": 12,
         "title": "Westworld",
         "poster": "https://ibb.co/5sC44Pk",
         "genre": [
