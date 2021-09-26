@@ -10,7 +10,8 @@
         ],
         "directors": "Vince Gilligan",
         "seasons": 5,
-        "firstReleasedYear": 2008
+        "firstReleasedYear": 2008,
+        "rating": 8.5
     },
     {
         "id": 2,
@@ -23,7 +24,8 @@
         ],
         "directors": "Craig Mazin",
         "seasons": 1,
-        "firstReleasedYear": 2019
+        "firstReleasedYear": 2019,
+        "rating": 8
     },
     {
         "id": 3,
@@ -35,7 +37,8 @@
         ],
         "directors": "David Crane",
         "seasons": 10,
-        "firstReleasedYear": 1994
+        "firstReleasedYear": 1994,
+        "rating": 9
     },
     {
         "id": 4,
@@ -48,7 +51,8 @@
         ],
         "directors": "David Benioff",
         "seasons": 8,
-        "firstReleasedYear": 2011
+        "firstReleasedYear": 2011,
+        "rating": 9.4
     },
     {
         "id": 5,
@@ -61,7 +65,8 @@
         ],
         "directors": "Tom Kapinos",
         "seasons": 6,
-        "firstReleasedYear": 2016
+        "firstReleasedYear": 2016,
+        "rating": 7.5
     },
     {
         "id": 6,
@@ -74,7 +79,8 @@
         ],
         "directors": "Joe Penhall",
         "seasons": 2,
-        "firstReleasedYear": 2017
+        "firstReleasedYear": 2017,
+        "rating": 7
     },
     {
         "id": 7,
@@ -87,7 +93,8 @@
         ],
         "directors": "Álex Pina",
         "seasons": 5,
-        "firstReleasedYear": 2017
+        "firstReleasedYear": 2017,
+        "rating": 8.4
     },
     {
         "id": 8,
@@ -100,7 +107,8 @@
         ],
         "directors": "Sam Esmail",
         "seasons": 4,
-        "firstReleasedYear": 2015
+        "firstReleasedYear": 2015,
+        "rating": 7.2
     },
     {
         "id": 9,
@@ -112,7 +120,8 @@
         ],
         "directors": "Steven Knight",
         "seasons": 5,
-        "firstReleasedYear": 2014
+        "firstReleasedYear": 2014,
+        "rating": 8.5
     },
     {
         "id": 10,
@@ -125,7 +134,8 @@
         ],
         "directors": "Jonathan Nolan",
         "seasons": 5,
-        "firstReleasedYear": 2011
+        "firstReleasedYear": 2011,
+        "rating": 8
     },
     {
         "id": 11,
@@ -138,7 +148,8 @@
         ],
         "directors": "Michael Hirst",
         "seasons": 6,
-        "firstReleasedYear": 2013
+        "firstReleasedYear": 2013,
+        "rating": 9.2
     },
     {
         "id": 12,
@@ -151,6 +162,7 @@
         ],
         "directors": "Lisa Joy",
         "seasons": 4,
-        "firstReleasedYear": 2016
+        "firstReleasedYear": 2016,
+        "rating": 8.9
     }
 ]
