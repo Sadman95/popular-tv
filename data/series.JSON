@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Breaking Bad",
-        "poster": "https://ibb.co/StF7KFz",
+        "poster": "/popular-tv/images/breaking bad.jpg",
         "genre": [
             "Crime",
             "Drama",
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "title": "Chernobyl",
-        "poster": "https://ibb.co/Pt890FZ",
+        "poster": "/popular-tv/images/chernobyl.jpg",
         "genre": [
             "Drama",
             "History",
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "title": "Friends",
-        "poster": "https://ibb.co/d2mjNNQ",
+        "poster": "/popular-tv/images/friends.jpg",
         "genre": [
             "Comedy",
             "Romance"
@@ -43,7 +43,7 @@
     {
         "id": 4,
         "title": "Game Of Thrones",
-        "poster": "https://ibb.co/7rBJDzw",
+        "poster": "/popular-tv/images/game of thrones.jpg",
         "genre": [
             "Action",
             "Drama",
@@ -59,7 +59,7 @@
     {
         "id": 5,
         "title": "Lucifer",
-        "poster": "https://ibb.co/brmWLK7",
+        "poster": "/popular-tv/images/lucifer.jpg",
         "genre": [
             "Crime",
             "Drama",
@@ -72,7 +72,7 @@
     {
         "id": 6,
         "title": "Mindhunter",
-        "poster": "https://ibb.co/StF7KFz",
+        "poster": "/popular-tv/images/mindhunter.jpg",
         "genre": [
             "Crime",
             "Drama",
@@ -85,7 +85,7 @@
     {
         "id": 7,
         "title": "Money Heist",
-        "poster": "https://ibb.co/HF9S8nz",
+        "poster": "/popular-tv/images/money heist.jpg",
         "genre": [
             "Action",
             "Crime",
@@ -98,7 +98,7 @@
     {
         "id": 8,
         "title": "Mr Robot",
-        "poster": "https://ibb.co/VJQpQqR",
+        "poster": "/popular-tv/images/mr robot.jpg",
         "genre": [
             "Crime",
             "Drama",
@@ -111,7 +111,7 @@
     {
         "id": 9,
         "title": "Peaky Blinders",
-        "poster": "https://ibb.co/4RF8czJ",
+        "poster": "/popular-tv/images/peaky blinders.jpg",
         "genre": [
             "Crime",
             "Drama"
@@ -123,7 +123,7 @@
     {
         "id": 10,
         "title": "Person Of Interest",
-        "poster": "https://ibb.co/gmvmR2d",
+        "poster": "/popular-tv/images/person of interest.jpg",
         "genre": [
             "Action",
             "Crime",
@@ -136,7 +136,7 @@
     {
         "id": 11,
         "title": "Vikings",
-        "poster": "https://ibb.co/z2KRcVb",
+        "poster": "/popular-tv/images/vikings.jpg",
         "genre": [
             "Action",
             "Adventure",
@@ -149,7 +149,7 @@
     {
         "id": 12,
         "title": "Westworld",
-        "poster": "https://ibb.co/5sC44Pk",
+        "poster": "/popular-tv/images/westworld.jpg",
         "genre": [
             "Drama",
             "Mystery",
