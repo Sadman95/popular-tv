@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Breaking Bad",
-        "poster": "/popular-tv/images/breaking bad.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
         "genre": [
             "Crime",
             "Drama",
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "title": "Chernobyl",
-        "poster": "/popular-tv/images/chernobyl.jpg",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chernobyl_2019_Miniseries.jpg",
         "genre": [
             "Drama",
             "History",
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "title": "Friends",
-        "poster": "/popular-tv/images/friends.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
         "genre": [
             "Comedy",
             "Romance"
@@ -43,7 +43,7 @@
     {
         "id": 4,
         "title": "Game Of Thrones",
-        "poster": "/popular-tv/images/game of thrones.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg",
         "genre": [
             "Action",
             "Drama",
@@ -59,7 +59,7 @@
     {
         "id": 5,
         "title": "Lucifer",
-        "poster": "/popular-tv/images/lucifer.jpg",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90a_j3ojYu6ZZBWZzrKwPTlNWifrvgrSgA&usqp=CAU",
         "genre": [
             "Crime",
             "Drama",
@@ -72,7 +72,7 @@
     {
         "id": 6,
         "title": "Mindhunter",
-        "poster": "/popular-tv/images/mindhunter.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWNmYzQ1ZWUtYTQ3ZS00Y2UwLTlkMDctZThlOTJkMGJiNzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
         "genre": [
             "Crime",
             "Drama",
@@ -85,7 +85,7 @@
     {
         "id": 7,
         "title": "Money Heist",
-        "poster": "/popular-tv/images/money heist.jpg",
+        "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/90640e84347009.5d5a7597dab6e.jpg",
         "genre": [
             "Action",
             "Crime",
@@ -98,7 +98,7 @@
     {
         "id": 8,
         "title": "Mr Robot",
-        "poster": "/popular-tv/images/mr robot.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
         "genre": [
             "Crime",
             "Drama",
@@ -111,7 +111,7 @@
     {
         "id": 9,
         "title": "Peaky Blinders",
-        "poster": "/popular-tv/images/peaky blinders.jpg",
+        "poster": "https://static.wikia.nocookie.net/peaky-blinders/images/0/0a/Peaky_Blinders_4.jpg/revision/latest/scale-to-width-down/293?cb=20180110141315",
         "genre": [
             "Crime",
             "Drama"
@@ -123,7 +123,7 @@
     {
         "id": 10,
         "title": "Person Of Interest",
-        "poster": "/popular-tv/images/person of interest.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDU1NzA5YzUtNTdmNy00NTVjLWFhNzEtYWI1NmNkNTA1ZDBhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
         "genre": [
             "Action",
             "Crime",
@@ -136,7 +136,7 @@
     {
         "id": 11,
         "title": "Vikings",
-        "poster": "/popular-tv/images/vikings.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
         "genre": [
             "Action",
             "Adventure",
@@ -149,7 +149,7 @@
     {
         "id": 12,
         "title": "Westworld",
-        "poster": "/popular-tv/images/westworld.jpg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
         "genre": [
             "Drama",
             "Mystery",
